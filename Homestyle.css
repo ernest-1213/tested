@@ -1,0 +1,16 @@
+.pages{
+    width: 1489px;
+    height: 951px;
+    top: -51px;
+    background:radial-gradient(#C196DD,#8D71D0);
+    /* background-image: url(../testing/src/Icon/background.png); */
+}
+.container{ 
+    /* width: 700px;
+    height: 1145px;
+    padding-top: 198px;
+    left: 370px;
+    border-radius: 40px;
+    border: 1px;
+    background-color: 20%,#FFFFFF; */
+}
